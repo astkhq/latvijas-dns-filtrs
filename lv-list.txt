@@ -1,0 +1,23 @@
+! Title: LV DNS Block List
+! Homepage: https://github.com/astkhq/latvijas-dns-filtrs
+! Last modified: 2025-08-25
+!
+! Lūdzu paziņojiet par nebloķētām reklāmām vai problēmām vienā no šiem veidiem:
+! * GitHub issues: https://github.com/astkhq/latvijas-dns-filtrs/issues
+!
+!
+! ------------- local advertising --------------
+!
+||track.adform.net^
+||hits.ss.com^
+||b.adbox.lv^
+||multisistema.lv^
+!
+! ------------- 3rd party advertising --------------
+!
+||s0.2mdn.net^
+||adclick.g.doubleclick.net^
+||tpc.googlesyndication.com^
+||pagead2.googlesyndication.com^
+||safeframe.googlesyndication.com^
+||s1.adform.net^
