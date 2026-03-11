@@ -1,8 +1,8 @@
 ! Title: LV DNS Block List
 ! Homepage: https://github.com/astkhq/latvijas-dns-filtrs
-! Last modified: 2025-08-25
+! Last update: 11.03.2026
 !
-! Lūdzu paziņojiet par nebloķētām reklāmām vai problēmām vienā no šiem veidiem:
+! In case of false blocking, please write to Issues:
 ! * GitHub issues: https://github.com/astkhq/latvijas-dns-filtrs/issues
 !
 !
@@ -12,6 +12,8 @@
 ||hits.ss.com^
 ||b.adbox.lv^
 ||multisistema.lv^
+||h.itvnet.lv^
+||af1.delphi.lv^
 !
 ! ------------- 3rd party advertising --------------
 !
@@ -21,3 +23,5 @@
 ||pagead2.googlesyndication.com^
 ||safeframe.googlesyndication.com^
 ||s1.adform.net^
+||prd.jwpltx.com^
+||ping-meta-prd.jwpltx.com^
