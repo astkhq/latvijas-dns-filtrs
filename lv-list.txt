@@ -23,5 +23,6 @@
 ||pagead2.googlesyndication.com^
 ||safeframe.googlesyndication.com^
 ||s1.adform.net^
+||adform.net^
 ||prd.jwpltx.com^
 ||ping-meta-prd.jwpltx.com^
